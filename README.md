@@ -44,7 +44,7 @@ export function App() {
     <div>
       <header>My Website</header>
       <main>
-        <WithState initial={{ open: false }}>
+        <WithState initialState={{ open: false }}>
           {({ state, setState }) => (
             <>
               <button
