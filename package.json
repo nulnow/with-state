@@ -1,6 +1,6 @@
 {
   "name": "with-state",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "WithState react component that provides a local state for its children",
   "type": "module",
   "source": "WithState.tsx",
