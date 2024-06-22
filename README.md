@@ -2,12 +2,9 @@
 
 A simple and easy-to-use React component that outsource state management for its children.
 
-![Size Gzip](https://img.shields.io/bundlejs/size/with-state)
 ![Static Badge](https://img.shields.io/badge/coverage-100%25-success)
 ![NPM Downloads](https://img.shields.io/npm/d18m/with-state)
 ![NPM Version](https://img.shields.io/npm/v/with-state)
-![NPM License](https://img.shields.io/npm/l/with-state)
-![Node LTS](https://img.shields.io/node/v-lts/with-state)
 
 ## Installation
 
